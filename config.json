@@ -1,0 +1,9 @@
+{
+	"ip":"Ahhh9bYD.aternos.me",
+	"port": "53813",
+	"name": "guanoob",
+	"auto-night-skip":"false",
+	"login-enabled":"false",
+	"register-cmd":"/register pass123 ",
+	"login-cmd":"/login pass123 "
+}
